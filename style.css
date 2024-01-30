@@ -633,4 +633,8 @@ img {
         font-size: 15px;
         margin-left: 0;
     }
+
+    .all {
+        padding: 10px;
+    }
 }
